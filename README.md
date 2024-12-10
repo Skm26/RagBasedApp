@@ -24,12 +24,15 @@ Instructions
 # Images
 
 1. User Interface
+
 ![UI](https://github.com/user-attachments/assets/75fc1162-0fd4-4ebf-8467-e5ac531adf69)
 
 2. PDF Upload
+
 ![PDF Upload](https://github.com/user-attachments/assets/bd4042ca-c618-4672-b298-29afe0a0ac55)
 
 3. Promt/Query and Response
+
 ![QA](https://github.com/user-attachments/assets/605287fe-574a-4f1a-a76a-3b045d697fbe)
 
 
