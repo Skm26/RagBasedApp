@@ -2,8 +2,14 @@
 The Repository Consists of the following :-
   - Retrieval-Augmented Generation (RAG) model for a Question Answering (QA)
     bot using Pinecone DB vector database like Cohere Genrative Model in a ipynb notebook.
-  - An Apllication which runs the same RAG model above via Streamlit.
+  - An Application which runs the same RAG model above via Streamlit.
   - Docker File (For building the image)
+
+Architecture
+![Blank diagram_page-0001](https://github.com/user-attachments/assets/306db2c1-d842-42b0-8873-275cfbd9bf73)
+[Note:- Front end not included in diagram]
+
+
 
 Instructions
   - For Notebook :- Download the notebook and run via VScode, Collab etc...
